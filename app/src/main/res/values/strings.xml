@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My SeekBar</string>
+    <string name="taxa">Taxa</string>
+    <string name="total">Total</string>
+    <string name="valor">Valor do Serviço:</string>
+</resources>
